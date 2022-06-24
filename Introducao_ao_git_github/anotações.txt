@@ -41,3 +41,9 @@ comandos
 -git add Iniciar o versionamento
 -git commit Criar um commit
 
+git clone :clonar repositório
+git status : mostrar o o que tem dentro da pasta
+git add . : Adicionar todos os arquivos
+git add -a : Adicionar todos os arquivos
+git commit -m "Inclusão das anotações do curso de Git/Github"  commit envia o arquivo pro repositorio local -m coloca frase de referência
+git push origin main :envia o arquivo pro repositorio remoto 
