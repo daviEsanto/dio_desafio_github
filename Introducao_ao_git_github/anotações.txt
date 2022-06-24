@@ -1,0 +1,43 @@
+cd - navegar entre as pastas
+dir - lista
+mkdir - criar uma pasta
+del /
+ rmdir - remover todos os arquivos do diretório
+cd subir ou descer niveis de diretório
+
+cls - limpar o terminal
+TAB - autopreenchimento
+
+SHA1 - Significa Secure	Hash Algorithm ele 
+encripta os dados (40 digitos de caracteree)
+é uma forma curta de representar o arquivo
+
+tres objetos do guit
+
+BLOBS- tera os metadados o tipo do arquivo, tamanho
+ do arquivo
+
+TREES - armazenam BLOBS e o nome do arquivo
+responsvel por montar toda a estrutura do
+ arquivo
+
+COMMITS - commit aponta para todos os atributos
+
+
+vantagens do git
+1- controle de versão
+2-Armazenamento de nuvem
+3- Trabalho em equipe
+4-Melhorar seu codigo
+5- reconhecimeno
+
+CHAVE SSH
+sempre tera uma chave publica e uma privada
+
+TOKEN
+
+comandos 
+-git init : iniciar o Repositorio Git
+-git add Iniciar o versionamento
+-git commit Criar um commit
+
